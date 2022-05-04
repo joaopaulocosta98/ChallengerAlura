@@ -1,0 +1,139 @@
+.cabecalho {
+	
+	padding: 20px 40px;
+}
+
+.imagem-cabecalho {
+
+
+}
+
+body {
+
+	background: #E5E5E5;
+	padding: 20px;
+	
+}
+
+.inputPadrao {
+
+	margin: 0px;
+	margin-left: 100px;
+	border: none;
+	padding: 20px 8px;
+	display: inline;
+	background: #E5E5E5;
+	padding: 30px;
+	height: 270px;
+    width: 375px;
+
+
+}
+
+.inputPadrao:focus, input:focus {
+box-shadow: 0 0 0 0;
+outline: 0;
+}
+
+footer {
+	
+
+	text-align: center;
+}
+
+.Criptografar {
+
+	margin-right:100px;
+	padding:10px 30px;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+	border: none;
+	border-radius: 16px;
+	background:blue;
+	margin: 30px;
+	position: static;
+	margin: 0 0 40px;
+}
+
+
+.Descriptografar {
+
+	padding:10px 30px;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+	border: none;
+	border-radius: 16px;
+	background: blue;
+	margin: 30px;
+	margin-right: 250px;
+	margin-top: 100px;
+
+}
+
+.Criptografar:hover {
+
+	background: lightblue;
+
+	transform: scale(1.2)
+
+}
+
+.Descriptografar:hover {
+
+	background: lightblue;
+
+	transform: scale(1.2)
+
+}
+
+.input-resultado {
+
+	position: absolute;
+    width: 25%;
+    height: 438px;
+    left: 600px;
+    top: 20px;
+    margin-left: 51px;
+    border-radius: 20px;
+    border: none;
+    padding: 35px;
+   
+
+}
+
+.input-resultado:focus, input:focus {
+box-shadow: 0 0 0 0;
+outline: 0;
+}
+
+.copiar {
+
+	margin-right:20%;
+	padding:10px 30px;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+	border: none;
+	border-radius: 16px;
+	background:blue;
+	margin: 30px;
+	position: static;
+	margin: 0 0 40px;
+}
+
+.copiar:hover {
+
+	background: lightblue;
+
+	transform: scale(1.2)
+}
+
+footer p {
+
+	font-weight: bold;
+	font-style: italic;
+	margin: 2px
+
+}
